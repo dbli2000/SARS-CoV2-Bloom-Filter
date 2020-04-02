@@ -1,5 +1,5 @@
 # SARS-CoV2-Bloom-Filter
-Simulations and scripts for plotting an approach for population-scale SARS-CoV2 testing, accompanying preprint. 
+Scripts for simulating and plotting an approach for population-scale SARS-CoV2 testing, accompanying preprint. 
 Most model details are in Supplementary Note 3.
 
 Files:
