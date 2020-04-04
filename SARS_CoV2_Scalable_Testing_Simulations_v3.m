@@ -1,6 +1,6 @@
 close all
 
-%For SARS-CoV2 Testing with Compressed Sensing
+%For Population-scale COVID-19 Diagnostics Using a Compressed Barcode Space
 
 %Define Params
 eps = 0.0001;
@@ -567,7 +567,7 @@ legend("FPP_{\Delta k', m_2}, m_2=1", "FPP_{\Delta k', m_2}, m_2=10",...
     "FPP = 0.002", 'Location', 'SouthEast')
 grid on
 
-%% JSBs 2G
+%% FFigure 2C
 t21 = FNPsubpool(m, k1, n, dstoch2, dsynth, m3);
 t22 = FNPsubpool(m, k2, n, dstoch2, dsynth, m3);
 t23 = FNPsubpool(m, k3, n, dstoch2, dsynth, m3);
