@@ -1,6 +1,6 @@
 # SARS-CoV2-Bloom-Filter
 Scripts for simulating and plotting an approach for population-scale SARS-CoV2 testing, accompanying preprint. 
-Most model details are in Supplementary Note 2 (PDF available in repo).
+Most model details are in Supplementary Note 1 (PDF available in repo).
 
 Files:
 - SARSCoV2barcoding.ipynb contains numerical simulations for skewing errors across samples due to viral titer load.
