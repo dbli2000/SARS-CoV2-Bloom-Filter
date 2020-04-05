@@ -4,7 +4,9 @@ Most model details are in Supplementary Note 1 (PDF available in repo).
 
 Files:
 - SARS_CoV_2_Testing_as_Bloom_Filter_s_.pdf is a PDF of Supplementary Note 1, describing the models. 
-- SARSCoV2barcoding.ipynb contains original numerical simulations for skewing errors across samples due to viral titer load, including plots that produced the numbers used in the preprint.
-- SARSCoV2barcoding_v2.ipynb is the most up-to-date script for numerical simulations, featuring parallelized computation, and the ability to model barcode loss, sample skewing, or both.
-- SARS_CoV2_Scalable_Testing_Simulations_v3.m contains code for making all of the figures in the text and in Supplementary Note 3.
-- SARS_CoV2_Scalable_Testing_Simulations_v3.mlx is the live notebook version of the previous file, with a table of contents and integrated inline plots.
+- For numerical simulation:
+    - SARSCoV2barcoding.ipynb contains original numerical simulations for skewing errors across samples due to viral titer load, including plots that produced the numbers used in the preprint.
+    - SARSCoV2barcoding_v2.ipynb is the most up-to-date script for numerical simulations, featuring parallelized computation, and the ability to model barcode loss, sample skewing, or both.
+- For plotting figures: 
+    - SARS_CoV2_Scalable_Testing_Simulations_v3.m contains code for making all of the figures in the text and in Supplementary Note 3.
+    - SARS_CoV2_Scalable_Testing_Simulations_v3.mlx is the live notebook version of the previous file, with a table of contents and integrated inline plots.
