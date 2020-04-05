@@ -1,6 +1,8 @@
 # SARS-CoV2-Bloom-Filter
 Scripts for simulating and plotting an approach for population-scale SARS-CoV2 testing, accompanying preprint. 
-Most model details are in Supplementary Note 1 (PDF available in repo). An easy-to-use interactive graphing calculator for plotting/calculating error rates only accounting for barcode loss (you can vary any parameter in scenario 2) is available here: https://www.desmos.com/calculator/io6som2w8t.
+Most model details are in Supplementary Note 1 (PDF available in repo). 
+
+An easy-to-use interactive graphing calculator for plotting/calculating error rates only accounting for barcode loss (you can vary any parameter in scenario 2) is available here: https://www.desmos.com/calculator/io6som2w8t.
 
 Files:
 - SARS_CoV_2_Testing_as_Bloom_Filter_s_.pdf is a PDF of Supplementary Note 1, describing the models. 
