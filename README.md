@@ -1,5 +1,5 @@
 # SARS-CoV2-Bloom-Filter
-Scripts for simulating and plotting an approach for population-scale SARS-CoV2 testing using LAMP-Seq, accompanying preprint. 
+Scripts for simulating and plotting an approach for population-scale SARS-CoV2 testing using LAMP-Seq, accompanying [preprint.](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1) 
 Most model details are in Supplementary Note 1 (PDF available in repo). 
 
 An easy-to-use interactive graphing calculator for plotting/calculating error rates only accounting for barcode loss is available here: https://www.desmos.com/calculator/okym5pyunh. You can vary any parameter in scenario 2.
