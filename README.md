@@ -5,8 +5,8 @@ Most model details are in Supplementary Note 1 and Supplementary Note 2 (PDFs av
 An easy-to-use interactive graphing calculator for plotting/calculating error rates only accounting for barcode loss in scenario 2 is available here: https://www.desmos.com/calculator/okym5pyunh. You can vary any parameter.
 
 Files:
-- SARS_CoV_2_Testing_as_Bloom_Filter_s_.pdf is a PDF of Supplementary Note 1, describing the single-indexed (FIP barcode) models. 
-- Supplementary_Note_2.pdf is a PDF of Supplementary Note 2, describing the dual-indexed (FIP and BIP barcode) models. 
+- Supplementary Note 1.pdf is a PDF of Supplementary Note 1, describing the single-indexed (FIP barcode) models. 
+- Supplementary Note 2.pdf is a PDF of Supplementary Note 2, describing the dual-indexed (FIP and BIP barcode) models. 
 - For numerical simulation:
     - SARSCoV2barcoding.ipynb contains original numerical simulations for skewing errors across samples due to viral titer load, including plots that produced the numbers used in Supplementary Note 1.
     - SARSCoV2barcoding_v2.ipynb is the most up-to-date script for numerical simulations of single-indexed models, featuring parallelized computation, and the ability to model barcode loss, sample skewing, or both.
