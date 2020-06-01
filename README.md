@@ -15,3 +15,4 @@ Files:
     - SARS_CoV2_Scalable_Testing_Simulations_v3.m contains code for making all of the figures in the old preprint and in Supplementary Note 1.
     - SARS_CoV2_Scalable_Testing_Simulations_v3.mlx is the live notebook version of the previous file, with a table of contents and integrated inline plots.
     - SARS_CoV2_Scalable_Testing_Simulations_v4.m contains code for making all of the barcoding model figures in the updated preprint (Figure 3, panels B, C, F, and G).
+- LampSeqSensitivity.m contains code for fitting sensitivity data, and for plotting the resulting figure (Figure 1, panel H). 
